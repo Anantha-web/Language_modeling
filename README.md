@@ -8,10 +8,8 @@
 - Source codes uploaded in zip file as extension .py
   
 OneDrive links for the saved models:
-- LM1 - https://iiitaphyd-my.sharepoint.com/:u:/g/personal/yadavalli_lakshmi_students_iiit
-_ac_in/EaXBCeqC3ZFFjulvcAAaEbUBfwXPIBeOJIUuWn3Cw0ZvbA?e=pmtcqV
-- LM2 - https://iiitaphyd-my.sharepoint.com/:u:/g/personal/yadavalli_lakshmi_students_iiit
-_ac_in/EbXsy-MZcIdAh9UPy9G0IOgB0fc0r2zx1nwpBeEyQNP7KQ?e=z7mDjY
+- LM1 - https://iiitaphyd-my.sharepoint.com/:u:/g/personal/yadavalli_lakshmi_students_iiit_ac_in/EaXBCeqC3ZFFjulvcAAaEbUBfwXPIBeOJIUuWn3Cw0ZvbA?e=pmtcqV
+- LM2 - https://iiitaphyd-my.sharepoint.com/:u:/g/personal/yadavalli_lakshmi_students_iiit_ac_in/EbXsy-MZcIdAh9UPy9G0IOgB0fc0r2zx1nwpBeEyQNP7KQ?e=z7mDjY
 - LM1 and LM2 output files submitted with perplexities. (I created folders)
 
 Used 30k sentences for the language model implementation.
